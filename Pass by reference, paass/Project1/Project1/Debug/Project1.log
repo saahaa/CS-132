@@ -1,0 +1,6 @@
+﻿  Source.cpp
+s:\desktop\cs&132 c++ 2\lab 2\pass by reference, paass\project1\project1\source.cpp : fatal error C1041: cannot open program database 'S:\Desktop\CS&132 C++ 2\Lab 2\Pass by reference, paass\Project1\Project1\Debug\vc141.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+FileTracker : error FTK1011: could not create the new file tracking log file: S:\Desktop\CS&132 C++ 2\Lab 2\Pass by reference, paass\Project1\Project1\Debug\Project1.tlog\CL.read.1.tlog. There is not enough space on the disk.
+  
+  
+  
